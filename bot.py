@@ -684,3 +684,5 @@ async def show_help(ctx):
         ),
         inline=False
     )
+    bot.run("MTUyMTY3ODExNjA4MTExMTEyMQ.GYMRnB.67NfgG0C4WRucvAFOTVb8Qdt6aI9QnustN4b4s")
+
